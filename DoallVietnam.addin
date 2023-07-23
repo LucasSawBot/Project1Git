@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <!--<AddIn Type="Command">
+    <Text>Command DoallVietnam</Text>
+    <Description>Some description for DoallVietnam</Description>
+    <Assembly>DoallVietnam.dll</Assembly>
+    <FullClassName>DoallVietnam.Command</FullClassName>
+    <ClientId>4ac31816-8d76-40f8-9a6f-513c1ecaa234</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>-->
+  <AddIn Type="Application">
+    <Name>Application DoallVietnam</Name>
+    <Assembly>DoallVietnam.dll</Assembly>
+    <FullClassName>DoallVietnam.App</FullClassName>
+    <ClientId>9ac7959c-0439-43be-b0d5-5dfcbe4dc914</ClientId>
+    <VendorId>DUNGDOALL</VendorId>
+    <VendorDescription>DOALL VIET NAM</VendorDescription>
+  </AddIn>
+</RevitAddIns>
